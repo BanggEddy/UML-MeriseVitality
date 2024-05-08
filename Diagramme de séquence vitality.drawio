@@ -1,0 +1,2107 @@
+<mxfile host="Electron" modified="2024-05-07T15:13:48.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="QROtWb7sXL7ICvHbsfys" version="24.0.4" type="device">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="22810" dy="19460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l074E1yeKzKy-4aUylN_-109" value="LoginController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1850" width="150" height="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-110" value="RegistrationController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1850" width="175" height="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-111" value="EntityManagerInterface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="905" y="1850" width="184" height="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-112" value="Security" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="1850" width="150" height="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-113" value="RegistrationFormType" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1339" y="1850" width="174" height="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-114" value="LoyaltyCardController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1563" y="1850" width="174" height="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-115" value="LoyaltyCard" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1886" y="1850" width="150" height="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-116" value="UserPasswordHasherInterface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2086" y="1850" width="229" height="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-117" value="JsonResponse" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2365" y="1850" width="150" height="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-118" value="UserEntity" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2565" y="1850" width="150" height="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-119" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2765" y="1850" width="150" height="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-120" value="Accède à /register" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="1957" />
+            </Array>
+            <mxPoint x="233.5" y="1957" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-121" value="Crée le formulaire d&#39;inscription" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-110" target="l074E1yeKzKy-4aUylN_-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1107" y="2009" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-122" value="Renvoie le formulaire" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-113" target="l074E1yeKzKy-4aUylN_-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1107" y="2061" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-123" value="Affiche le formulaire" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="2113" />
+            </Array>
+            <mxPoint x="233.5" y="2113" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-124" value="Soumet le formulaire d&#39;inscription" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="2165" />
+            </Array>
+            <mxPoint x="233.5" y="2165" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-125" value="Persiste l&#39;utilisateur et la carte de fidélité" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-110" target="l074E1yeKzKy-4aUylN_-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1814" y="2217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-126" value="Confirmation de l&#39;enregistrement" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-119" target="l074E1yeKzKy-4aUylN_-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1814" y="2269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-127" value="Hash le mot de passe" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-110" target="l074E1yeKzKy-4aUylN_-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1494" y="2321" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-128" value="Récupère le mot de passe hashé" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1228" y="2373" />
+            </Array>
+            <mxPoint x="233.5" y="2373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-129" value="Persiste l&#39;utilisateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-110" target="l074E1yeKzKy-4aUylN_-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1001" y="2425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-130" value="Renvoie la réponse de l&#39;inscription" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-112" target="l074E1yeKzKy-4aUylN_-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1001" y="2477" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-131" value="Accède à /login" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="2529" />
+            </Array>
+            <mxPoint x="233.5" y="2529" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-132" value="Affiche le formulaire de connexion" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="2581" />
+            </Array>
+            <mxPoint x="233.5" y="2581" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-133" value="Soumet le formulaire de connexion" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="2633" />
+            </Array>
+            <mxPoint x="233.5" y="2633" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-134" value="Recherche l&#39;utilisateur par e-mail" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-109" target="l074E1yeKzKy-4aUylN_-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1708" y="2685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-135" value="Renvoie l&#39;utilisateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-119" target="l074E1yeKzKy-4aUylN_-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1708" y="2737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-136" value="Vérifie le mot de passe" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="2789" />
+            </Array>
+            <mxPoint x="233.5" y="2789" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-137" value="Renvoie le résultat de la vérification" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="2841" />
+            </Array>
+            <mxPoint x="233.5" y="2841" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-138" value="Renvoie la réponse JSON" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-109" target="l074E1yeKzKy-4aUylN_-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1508" y="2893" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-139" value="Accède à /loyalty/card" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="953" y="2945" />
+            </Array>
+            <mxPoint x="233.5" y="2945" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-140" value="Recherche toutes les cartes de fidélité" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-114" target="l074E1yeKzKy-4aUylN_-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2255" y="2997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-141" value="Renvoie les cartes de fidélité" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-119" target="l074E1yeKzKy-4aUylN_-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2255" y="3049" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-142" value="Affiche les cartes de fidélité" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="953" y="3101" />
+            </Array>
+            <mxPoint x="233.5" y="3101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-143" value="Accède à /loyalty/card/new" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="953" y="3153" />
+            </Array>
+            <mxPoint x="233.5" y="3153" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-144" value="Crée une nouvelle carte de fidélité" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-114" target="l074E1yeKzKy-4aUylN_-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1816" y="3205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-145" value="Renvoie la carte de fidélité créée" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-115" target="l074E1yeKzKy-4aUylN_-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1816" y="3257" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-146" value="Persiste la carte de fidélité" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-114" target="l074E1yeKzKy-4aUylN_-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2255" y="3309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-147" value="Confirmation de la persistance" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-119" target="l074E1yeKzKy-4aUylN_-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2255" y="3361" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-148" value="Redirige vers la liste des cartes de fidélité" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="953" y="3413" />
+            </Array>
+            <mxPoint x="233.5" y="3413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-174" value="Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="5051.5" y="5490" width="150" height="948" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-175" value="Request" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="5336.5" y="5490" width="150" height="948" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-176" value="ProductsRepository" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="5536.5" y="5490" width="157" height="948" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-177" value="PanierRepository" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="5743.5" y="5490" width="150" height="948" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-178" value="PromoRepository" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="5943.5" y="5490" width="150" height="948" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-179" value="EntityManagerInterface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="6143.5" y="5490" width="184" height="948" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-180" value="PromoFilter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="6377.5" y="5490" width="150" height="948" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-181" value="JsonResponse" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="6577.5" y="5490" width="150" height="948" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-182" value="Response" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="6777.5" y="5490" width="150" height="948" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-183" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="6977.5" y="5490" width="150" height="948" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-184" value="Requête HTTP GET /uservue" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5003.5" y="5597" />
+            </Array>
+            <mxPoint x="4856.666666666668" y="5597" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-185" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-174" target="l074E1yeKzKy-4aUylN_-175">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5279.5" y="5649" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-186" value="SELECT * FROM products" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-174" target="l074E1yeKzKy-4aUylN_-183">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6099.5" y="5701" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-187" value="Liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-183" target="l074E1yeKzKy-4aUylN_-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6099.5" y="5753" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-188" value="SELECT * FROM panier WHERE iduser = :user" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-174" target="l074E1yeKzKy-4aUylN_-183">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6099.5" y="5805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-189" value="Liste des paniers" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-183" target="l074E1yeKzKy-4aUylN_-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6099.5" y="5857" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-190" value="SELECT * FROM promo" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-174" target="l074E1yeKzKy-4aUylN_-183">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6099.5" y="5909" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-191" value="Liste des promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-183" target="l074E1yeKzKy-4aUylN_-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6099.5" y="5961" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-192" value="Filtrer les produits avec les promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-174" target="l074E1yeKzKy-4aUylN_-180">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5799.5" y="6013" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-193" value="Liste des produits filtrés" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-180" target="l074E1yeKzKy-4aUylN_-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5799.5" y="6065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-194" value="Calculer le détail du panier" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-174" target="l074E1yeKzKy-4aUylN_-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5176.5" y="6117" />
+              <mxPoint x="5176.5" y="6147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-195" value="Calculer le prix total" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-174" target="l074E1yeKzKy-4aUylN_-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5176.5" y="6199" />
+              <mxPoint x="5176.5" y="6229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-196" value="Rendre la vue avec les données" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-174" target="l074E1yeKzKy-4aUylN_-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5999.5" y="6281" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-197" value="Vue avec les données" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5866.5" y="6333" />
+            </Array>
+            <mxPoint x="4856.666666666668" y="6333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-293" value="Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="523" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-294" value="Request" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="808" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-295" value="ProductsRepository" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1008" y="5150" width="157" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-296" value="PanierRepository" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-297" value="PromoRepository" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-298" value="EntityManagerInterface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="5150" width="184" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-299" value="PromoFilter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1849" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-300" value="JsonResponse" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2049" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-301" value="Response" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2249" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-302" value="Contact" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2449" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-303" value="UrlGeneratorInterface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2649" y="5150" width="173" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-304" value="Products" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2872" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-305" value="Promo" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="3072" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-306" value="Panier" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="3272" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-307" value="UserInterface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="3472" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-308" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="3672" y="5150" width="150" height="5572" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-309" value="Requête HTTP GET /uservue" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="5257" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="5257" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-310" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="5309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-311" value="Rechercher les paniers de l&#39;utilisateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-296">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="954" y="5361" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-312" value="Requête de recherche des paniers" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-296" target="l074E1yeKzKy-4aUylN_-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2529" y="5413" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-313" value="Résultat de la recherche" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-308" target="l074E1yeKzKy-4aUylN_-296">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2529" y="5465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-314" value="Liste des paniers" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-296" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="954" y="5517" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-315" value="Rechercher tous les produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-295">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852" y="5569" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-316" value="Requête de recherche de tous les produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-295" target="l074E1yeKzKy-4aUylN_-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2427" y="5621" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-317" value="Résultat de la recherche" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-308" target="l074E1yeKzKy-4aUylN_-295">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2427" y="5673" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-318" value="Liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-295" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852" y="5725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-319" value="Rechercher toutes les promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-297">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1054" y="5777" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-320" value="Requête de recherche de toutes les promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-297" target="l074E1yeKzKy-4aUylN_-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2629" y="5829" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-321" value="Résultat de la recherche" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-308" target="l074E1yeKzKy-4aUylN_-297">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2629" y="5881" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-322" value="Liste des promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-297" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1054" y="5933" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-323" value="Filtrer les produits avec les promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-299">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1271" y="5985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-324" value="Liste des produits filtrés" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-299" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1271" y="6037" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-325" value="Calculer le détail du panier" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="6089" />
+              <mxPoint x="648" y="6119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-326" value="Calculer le prix total" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="6171" />
+              <mxPoint x="648" y="6201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-327" value="Rendre la vue avec les données" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="6253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-328" value="Vue avec les données" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1245" y="6305" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="6305.000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-329" value="Requête HTTP GET /user/promo" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="6357" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="6357" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-330" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="6409" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-331" value="Rechercher les paniers de l&#39;utilisateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-296">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="954" y="6461" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-332" value="Requête de recherche des paniers" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-296" target="l074E1yeKzKy-4aUylN_-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2529" y="6513" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-333" value="Résultat de la recherche" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-308" target="l074E1yeKzKy-4aUylN_-296">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2529" y="6565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-334" value="Liste des paniers" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-296" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="954" y="6617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-335" value="Créer les détails du panier" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="6669" />
+              <mxPoint x="648" y="6699" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-336" value="Rendre la vue des promotions avec les données" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="6751" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-337" value="Vue avec les promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1245" y="6803" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="6802.999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-338" value="Requête HTTP POST /add-to-cart/{id}" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="6855" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="6855.000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-339" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="6907" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-340" value="Rechercher le produit avec l&#39;identifiant spécifié" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-295">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852" y="6959" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-341" value="Requête de recherche du produit spécifié" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-295" target="l074E1yeKzKy-4aUylN_-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2427" y="7011" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-342" value="Résultat de la recherche" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-308" target="l074E1yeKzKy-4aUylN_-295">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2427" y="7063" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-343" value="Produit trouvé" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-295" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852" y="7115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-344" value="Rechercher la promotion avec l&#39;identifiant spécifié" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-297">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1054" y="7167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-345" value="Requête de recherche de la promotion spécifiée" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-297" target="l074E1yeKzKy-4aUylN_-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2629" y="7219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-346" value="Résultat de la recherche" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-308" target="l074E1yeKzKy-4aUylN_-297">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2629" y="7271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-347" value="Promotion trouvée" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-297" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1054" y="7323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-348" value="Ajouter le produit ou la promotion au panier de l&#39;utilisateur" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="7375" />
+              <mxPoint x="648" y="7405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-349" value="Rediriger vers la page d&#39;accueil" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="7457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-350" value="Requête HTTP GET /user/panier" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="7509" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="7509" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-351" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="7561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-352" value="Rechercher les paniers de l&#39;utilisateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-296">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="954" y="7613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-353" value="Requête de recherche des paniers" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-296" target="l074E1yeKzKy-4aUylN_-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2529" y="7665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-354" value="Résultat de la recherche" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-308" target="l074E1yeKzKy-4aUylN_-296">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2529" y="7717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-355" value="Liste des paniers" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-296" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="954" y="7769" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-356" value="Calculer le prix total du panier" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="7821" />
+              <mxPoint x="648" y="7851" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-357" value="Rendre la vue du panier avec les données" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="7903" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-358" value="Vue avec les détails du panier" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1245" y="7955" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="7955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-359" value="Requête HTTP POST /edit_user_profile" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="8007" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="8007" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-360" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="8059" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-361" value="Modifier le profil de l&#39;utilisateur" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="8111" />
+              <mxPoint x="648" y="8141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-362" value="Rediriger vers la page de profil de l&#39;utilisateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="8193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-363" value="Requête HTTP POST /update-quantity" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="8245" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="8245" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-364" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="8297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-365" value="Mettre à jour la quantité d&#39;un produit dans le panier" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="8349" />
+              <mxPoint x="648" y="8379" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-366" value="Rediriger vers la page du panier de l&#39;utilisateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="8431" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-367" value="Requête HTTP POST /remove_from_cart" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="8483" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="8483" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-368" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="8535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-369" value="Supprimer un produit du panier de l&#39;utilisateur" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="8587" />
+              <mxPoint x="648" y="8617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-370" value="Rediriger vers la page du panier de l&#39;utilisateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="8669" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-371" value="Requête HTTP GET /user/uservue/categorie/{category}" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="8721" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="8721" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-372" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="8773" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-373" value="Rechercher les produits de la catégorie spécifiée" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-295">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852" y="8825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-374" value="Requête de recherche des produits de la catégorie spécifiée" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-295" target="l074E1yeKzKy-4aUylN_-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2427" y="8877" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-375" value="Résultat de la recherche" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-308" target="l074E1yeKzKy-4aUylN_-295">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2427" y="8929" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-376" value="Liste des produits de la catégorie" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-295" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852" y="8981" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-377" value="Rechercher les promotions de la catégorie spécifiée" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-297">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1054" y="9033" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-378" value="Requête de recherche des promotions de la catégorie spécifiée" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-297" target="l074E1yeKzKy-4aUylN_-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2629" y="9085" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-379" value="Résultat de la recherche" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-308" target="l074E1yeKzKy-4aUylN_-297">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2629" y="9137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-380" value="Liste des promotions de la catégorie" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-297" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1054" y="9189" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-381" value="Filtrer les produits avec les promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-299">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1271" y="9241" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-382" value="Liste des produits filtrés" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-299" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1271" y="9293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-383" value="Calculer le détail du panier" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="9345" />
+              <mxPoint x="648" y="9375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-384" value="Calculer le prix total" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="9427" />
+              <mxPoint x="648" y="9457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-385" value="Rendre la vue avec les données de la catégorie" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="9509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-386" value="Vue avec les données de la catégorie" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1245" y="9561" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="9561" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-387" value="Requête HTTP GET /contact/user" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="9613" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="9613" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-388" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="9665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-389" value="Afficher le formulaire de contact" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="9717" />
+              <mxPoint x="648" y="9747" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-390" value="Rendre la vue avec le formulaire de contact" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="9799" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-391" value="Vue avec le formulaire de contact" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1245" y="9851" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="9851" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-392" value="Requête HTTP POST /contact/submit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="9903" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="9903" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-393" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="9955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-394" value="Soumettre le formulaire de contact" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="10007" />
+              <mxPoint x="648" y="10037" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-395" value="Rediriger vers la page d&#39;accueil" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="10089" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-396" value="Requête HTTP GET /user/change-password" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="10141" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="10141" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-397" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="10193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-398" value="Afficher le formulaire de changement de mot de passe" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="10245" />
+              <mxPoint x="648" y="10275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-399" value="Rendre la vue avec le formulaire de changement de mot de passe" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="10327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-400" value="Vue avec le formulaire de changement de mot de passe" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1245" y="10379" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="10379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-401" value="Requête HTTP POST /user/change-password" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="10431" />
+            </Array>
+            <mxPoint x="143.83333333333348" y="10431" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-402" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="10483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-403" value="Modifier le mot de passe de l&#39;utilisateur" style="curved=1;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="10535" />
+              <mxPoint x="648" y="10565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-404" value="Rediriger vers la page de profil de l&#39;utilisateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-293" target="l074E1yeKzKy-4aUylN_-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1471" y="10617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-405" value="&lt;font style=&quot;font-size: 209px;&quot;&gt;USER HUGE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="4710" width="1270" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-406" value="&lt;font style=&quot;font-size: 209px;&quot;&gt;USER LIGHT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4670" y="5000" width="1280" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-407" value="&lt;font style=&quot;font-size: 209px;&quot;&gt;REGISTER/LOGIN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1430" width="1800" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-409" value="AdminproductsController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="506" y="11970" width="201" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-410" value="Request" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="816" y="11970" width="150" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-411" value="ProductsRepository" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="11970" width="157" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-412" value="PromoRepository" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1223" y="11970" width="150" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-413" value="EntityManagerInterface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1423" y="11970" width="184" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-414" value="JsonResponse" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1657" y="11970" width="150" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-415" value="Response" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1857" y="11970" width="150" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-416" value="Filesystem" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2057" y="11970" width="150" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-417" value="Products" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2257" y="11970" width="150" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-418" value="Promo" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2457" y="11970" width="150" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-419" value="UploadedFile" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2657" y="11970" width="150" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-420" value="LoggerInterface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2857" y="11970" width="150" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-421" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="3057" y="11970" width="150" height="4840" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-422" value="Requête HTTP GET /adminproducts" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="12077" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="12077" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-423" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="12129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-424" value="Requête pour récupérer tous les produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="12181" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-425" value="Liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="12233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-426" value="Requête pour récupérer toutes les promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-412">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="962" y="12285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-427" value="Liste des promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-412" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="962" y="12337" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-428" value="Rendre la vue avec les données" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="12389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-429" value="Vue avec les données des produits et des promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1014" y="12441" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="12441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-430" value="Requête HTTP GET /adminajouterproducts" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="12493" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="12493" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-431" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="12545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-432" value="Rendre la vue du formulaire d&#39;ajout de produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="12597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-433" value="Vue avec le formulaire d&#39;ajout de produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1014" y="12649" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="12648.999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-434" value="Requête HTTP POST /product/create" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="12701" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="12701" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-435" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="12753" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-436" value="Télécharger le fichier image" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-419">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1679" y="12805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-437" value="Image téléchargée" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-419" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1679" y="12857" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-438" value="Créer une instance de Produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-417">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1479" y="12909" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-439" value="Produit créé" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-417" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1479" y="12961" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-440" value="Enregistrer le produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="13013" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-441" value="Produit enregistré" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="13065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-442" value="Rediriger vers la page d&#39;administration des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="13117" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-443" value="Requête HTTP GET /admindeleteproducts" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="13169" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="13168.999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-444" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="13221" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-445" value="Requête pour récupérer tous les produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="13273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-446" value="Liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="13325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-447" value="Rendre la vue de suppression des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="13377" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-448" value="Vue avec les données des produits et le formulaire de suppression" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1014" y="13429" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="13428.999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-449" value="Requête HTTP GET /deleteproduct/{id}" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="13481" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="13481" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-450" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="13533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-451" value="Requête pour récupérer le produit avec l&#39;ID spécifié" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="13585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-452" value="Produit trouvé" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="13637" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-453" value="Supprimer le fichier image du produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-416">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1379" y="13689" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-454" value="Fichier image supprimé" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-416" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1379" y="13741" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-455" value="Supprimer le produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="13793" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-456" value="Produit supprimé" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="13845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-457" value="Rediriger vers la page de suppression des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="13897" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-458" value="Requête HTTP GET /adminupdateproducts" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="13949" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="13948.999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-459" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="14001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-460" value="Requête pour récupérer tous les produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="14053" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-461" value="Liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="14105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-462" value="Rendre la vue de modification des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="14157" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-463" value="Vue avec les données des produits et le formulaire de modification" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1014" y="14209" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="14208.999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-464" value="Requête HTTP GET /adminformedit/{id}" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="14261" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="14261.000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-465" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="14313" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-466" value="Requête pour récupérer le produit avec l&#39;ID spécifié" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="14365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-467" value="Produit trouvé" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="14417" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-468" value="Rendre la vue du formulaire de modification du produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="14469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-469" value="Vue avec le formulaire de modification du produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1014" y="14521" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="14521.000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-470" value="Requête HTTP POST /adminformedit/{id}" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="14573" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="14573" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-471" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="14625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-472" value="Modifier le produit avec les données du formulaire" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="14677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-473" value="Produit modifié" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="14729" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-474" value="Rediriger vers la page d&#39;administration des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="14781" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-475" value="Requête HTTP GET /compte/admin" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="14833" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="14833" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-476" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="14885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-477" value="Rendre la vue du profil administrateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="14937" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-478" value="Vue avec le profil administrateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1014" y="14989" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="14988.999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-479" value="Requête HTTP POST /edit_admin_profile" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="15041" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="15041.000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-480" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="15093" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-481" value="Modifier le profil administrateur avec les données du formulaire" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="15145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-482" value="Profil administrateur modifié" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="15197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-483" value="Rediriger vers la page du profil administrateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="15249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-484" value="Requête HTTP POST /admin/add_quantity_promo/{productId}" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="15301" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="15301.000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-485" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="15353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-486" value="Requête pour récupérer la promotion associée au produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-412">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="962" y="15405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-487" value="Promotion trouvée" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-412" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="962" y="15457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-488" value="Ajouter la quantité spécifiée à la promotion" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="15509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-489" value="Promotion mise à jour" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="15561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-490" value="Rediriger vers la liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="15613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-491" value="Requête HTTP POST /admin/remove_quantity_promo/{productId}" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="15665" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="15665" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-492" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="15717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-493" value="Requête pour récupérer la promotion associée au produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-412">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="962" y="15769" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-494" value="Promotion trouvée" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-412" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="962" y="15821" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-495" value="Retirer la quantité spécifiée de la promotion" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="15873" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-496" value="Promotion mise à jour" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="15925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-497" value="Rediriger vers la liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="15977" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-498" value="Requête HTTP POST /admin/add_quantity/{productId}" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="16029" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="16029" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-499" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="16081" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-500" value="Requête pour récupérer le produit avec l&#39;ID spécifié" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-411">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="16133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-501" value="Produit trouvé" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-411" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="16185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-502" value="Ajouter la quantité spécifiée au produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="16237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-503" value="Produit mis à jour" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="16289" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-504" value="Rediriger vers la liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="16341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-505" value="Requête HTTP POST /admin/remove_quantity/{productId}" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="16393" />
+            </Array>
+            <mxPoint x="74.07142857142844" y="16393" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-506" value="Créer une instance de Request" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="16445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-507" value="Requête pour récupérer le produit avec l&#39;ID spécifié" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-411">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="16497" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-508" value="Produit trouvé" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-411" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="16549" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-509" value="Retirer la quantité spécifiée du produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-421">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="16601" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-510" value="Produit mis à jour" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-421" target="l074E1yeKzKy-4aUylN_-409">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1879" y="16653" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-511" value="Rediriger vers la liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-409" target="l074E1yeKzKy-4aUylN_-415">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="16705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-512" value="&lt;font style=&quot;font-size: 209px;&quot;&gt;ADMIN HUGE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="11290" width="1360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-514" value="AdminproductsController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="5279" y="12020" width="201" height="1616" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-515" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="5662" y="12020" width="150" height="1616" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-516" value="Request" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="5862" y="12020" width="150" height="1616" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-517" value="Response" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="6062" y="12020" width="150" height="1616" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-518" value="Requête HTTP GET /adminproducts" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5205" y="12127" />
+            </Array>
+            <mxPoint x="5009.547619047618" y="12127" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-519" value="Récupérer les produits et les promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-515">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="12179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-520" value="Données des produits et des promotions" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-515" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="12231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-521" value="Rendre la vue avec les données" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-517">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5768" y="12283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-522" value="Requête HTTP POST /product/create" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5205" y="12335" />
+            </Array>
+            <mxPoint x="5009.547619047618" y="12335" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-523" value="Créer un nouveau produit" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-515">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="12387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-524" value="Produit créé" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-515" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="12439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-525" value="Rediriger vers la liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-517">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5768" y="12491" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-526" value="Requête HTTP GET /admindeleteproducts" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5205" y="12543" />
+            </Array>
+            <mxPoint x="5009.547619047618" y="12543" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-527" value="Récupérer les produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-515">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="12595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-528" value="Liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-515" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="12647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-529" value="Rendre la vue pour supprimer les produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-517">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5768" y="12699" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-530" value="Requête HTTP GET /deleteproduct/{id}" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5205" y="12751" />
+            </Array>
+            <mxPoint x="5009.547619047618" y="12751" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-531" value="Supprimer le produit avec l&#39;ID spécifié" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-515">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="12803" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-532" value="Produit supprimé" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-515" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="12855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-533" value="Rediriger vers la liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-517">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5768" y="12907" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-534" value="Requête HTTP GET /adminupdateproducts" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5205" y="12959" />
+            </Array>
+            <mxPoint x="5009.547619047618" y="12959" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-535" value="Récupérer les produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-515">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="13011" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-536" value="Liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-515" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="13063" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-537" value="Rendre la vue pour mettre à jour les produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-517">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5768" y="13115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-538" value="Requête HTTP POST /adminformedit/{id}" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5205" y="13167" />
+            </Array>
+            <mxPoint x="5009.547619047618" y="13167" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-539" value="Mettre à jour le produit avec l&#39;ID spécifié" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-515">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="13219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-540" value="Produit mis à jour" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-515" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="13271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-541" value="Rediriger vers la liste des produits" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-517">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5768" y="13323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-542" value="Requête HTTP POST /edit_admin_profile" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5205" y="13375" />
+            </Array>
+            <mxPoint x="5009.547619047618" y="13375" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-543" value="Mettre à jour le profil administrateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-515">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="13427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-544" value="Profil administrateur mis à jour" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-515" target="l074E1yeKzKy-4aUylN_-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5568" y="13479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-545" value="Rediriger vers le profil administrateur" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-514" target="l074E1yeKzKy-4aUylN_-517">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5768" y="13531" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-546" value="&lt;font style=&quot;font-size: 209px;&quot;&gt;ADMIN LIGHT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4900" y="11410" width="1370" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-570" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;shape=link;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-568">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="16791.428571428572" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-568" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="11960" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-577" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-574">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="10714" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="7950" />
+              <mxPoint x="141" y="7950" />
+              <mxPoint x="141" y="10714" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-574" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="5130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-581" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;shape=link;strokeColor=default;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-580">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4855" y="6430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-580" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4840" y="5490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-585" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-582">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5005" y="13622" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-582" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4990" y="12030" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-589" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;" edge="1" parent="1" source="l074E1yeKzKy-4aUylN_-586">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="3511" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l074E1yeKzKy-4aUylN_-586" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1850" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
